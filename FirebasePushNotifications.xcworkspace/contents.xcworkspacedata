@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:FirebasePushNotifications.xcodeproj">
+      location = "group:/Users/andrew/Developer/Xcode/Swift/PushNotifications/FirebasePushNotifications.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
